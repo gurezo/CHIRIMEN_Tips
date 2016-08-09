@@ -1,6 +1,11 @@
 ### Ubuntuでの操作
 - Ubuntuの端末（terminal）を起動する
 
+### android-tools-adbをインストールする  
+```
+$ sudo apt-get install -y android-tools-adb
+```
+
 ### github から CHIRIMEN-toolsリポジトリをクローンする
 ```
 git clone https://github.com/chirimen-oh/CHIRIMEN-tools.git
