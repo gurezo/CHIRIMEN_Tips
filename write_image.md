@@ -1,3 +1,16 @@
+## Ubuntu version
+- making memo at os version
+~~~~
+$ cat /etc/lsb-release
+DISTRIB_ID=Ubuntu
+DISTRIB_RELEASE=16.04
+DISTRIB_CODENAME=xenial
+DISTRIB_DESCRIPTION="Ubuntu 16.04.1 LTS
+
+$ arch
+X86_64
+~~~~
+
 ### Ubuntuでの操作
 - Ubuntuの端末（terminal）を起動する
 - 以下の手順は、基本的に端末（terminal）で行います。
