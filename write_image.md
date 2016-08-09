@@ -1,5 +1,6 @@
 ### Ubuntuでの操作
 - Ubuntuの端末（terminal）を起動する
+- 以下の手順は、基本的に端末（terminal）で行います。
 
 ### android-tools-adbをインストールする  
 ```
