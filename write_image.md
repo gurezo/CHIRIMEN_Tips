@@ -6,6 +6,17 @@
 ```
 $ sudo apt-get install -y android-tools-adb
 ```
+### adb_usb.ini 作成・編集する
+- adb_usb.iniを作成する  
+```
+$ vi ~/.android/adb_usb.ini
+```
+- adb_usb.iniを編集する  
+```
+# 1 USB VENDOR ID PER LINE.
+0x2207
+```
+
 
 ### github から CHIRIMEN-toolsリポジトリをクローンする
 ```
